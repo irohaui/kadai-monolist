@@ -24,4 +24,5 @@ class ItemsController < ApplicationController
     @want_users = @item.want_users
     @have_users = @item.have_users
   end
+
 end

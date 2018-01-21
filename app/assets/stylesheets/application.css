@@ -57,8 +57,8 @@ footer{
   height: 250px;
 }
 .item .panel-heading img{
-  height: 100px;
-  max-width: 100px;
+  height: 100%;
+  max-width: 100%;
 }
 p.item-title{
   /* 文の行数を2行に保ち、最後に ... を追加するスタイル */
